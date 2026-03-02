@@ -2,7 +2,7 @@
 
 ## Editing the file
 
-its a markdown file in this repository ok
+
 #include <stdio.h>
 #include <time.h>
 
